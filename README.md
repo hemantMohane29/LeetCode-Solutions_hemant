@@ -23,6 +23,7 @@
 - [3001 - Latest](./README.md)
 
 
+
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/kamyu104/LeetCode-Solutions#bit-manipulation)
@@ -100,6 +101,7 @@
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
