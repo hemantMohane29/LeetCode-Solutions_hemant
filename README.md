@@ -1,4 +1,5 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
+
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
@@ -1244,8 +1245,8 @@
 
 <br/> 
 <br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
+<div align="right"> <b><a href="#algorithms">⬆️ Back to Top</a></b> </div>
 <br/>
 <br/>
+
+
